@@ -1,5 +1,7 @@
 # habr
 
+Recommended version of node> = 20.10.0
+
 ## Project Setup
 
 ```sh
